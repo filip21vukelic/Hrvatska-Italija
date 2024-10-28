@@ -1,0 +1,2 @@
+C:\Users\Učenik\source\repos\Hrvatska Italija\Hrvatska Italija\obj\Debug\Hrvatska Italija.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\Hrvatska Italija\Hrvatska Italija\obj\Debug\Hrvatska Italija.csproj.CoreCompileInputs.cache
